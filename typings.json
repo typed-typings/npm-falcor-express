@@ -1,0 +1,15 @@
+{
+  "name": "falcor-express",
+  "main": "src/index.d.ts",
+  "version": "^0.1.0",
+  "homepage": "https://github.com/Netflix/falcor-express",
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160412142033"
+  },
+  "dependencies": {
+    "falcor": "registry:npm/falcor#0.1.0+20160427193439"
+  },
+  "devDependencies": {
+    "falcor-router": "registry:npm/falcor-router#0.4.0+20160427200829"
+  }
+}
